@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodingChallenge.DataAccess")]
+[assembly: AssemblyTitle("Coding Challenge - Data Access")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("McKesson")]
-[assembly: AssemblyProduct("CodingChallenge.DataAccess")]
-[assembly: AssemblyCopyright("Copyright © McKesson 2015")]
+[assembly: AssemblyCompany("American Water")]
+[assembly: AssemblyProduct("Coding Challenge")]
+[assembly: AssemblyCopyright("Copyright © 2020 American Water")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
