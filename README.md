@@ -12,7 +12,7 @@ This coding challenge is composed of a basic prioritized backlog of product requ
 
 > Note: For each challenge(aside from Request #3 and #4) you will want to implement your code in the existing CodingChallenge projects. 
 
-> Note: For each task, please include a brief description of what you did to resolve the task. For bugs, also include a brief description of what you found was wrong.
+> Note: For each task, please include an explanation  of what you did to resolve the task. For bugs, also include a brief description of what you found wrong.
 
 ## Setup
 
