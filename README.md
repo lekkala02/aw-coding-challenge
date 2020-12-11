@@ -12,6 +12,8 @@ This coding challenge is composed of a basic prioritized backlog of product requ
 
 > Note: For each challenge(aside from Request #3 and #4) you will want to implement your code in the existing CodingChallenge projects. 
 
+> Note: For each task, please include a brief description of what you did to resolve the task. For bugs, also include a brief description of what you found was wrong.
+
 ## Setup
 
 There should be no setup required aside from downloading the source code, validating all packages are downloaded, and compiling / running the application within IIS Express. It's recommended that you use Visual Studio Community edition if you do not already have Visual Studio.
