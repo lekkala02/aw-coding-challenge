@@ -34,3 +34,5 @@ _ReSharper*/
 *.resharper
 [Tt]est[Rr]esult*
 *.cekey
+
+node_modules
