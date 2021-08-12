@@ -4,6 +4,16 @@ Thank you for taking the time to work on the American Water Coding Challenge. Th
 
 ## Instructions
 
+1. Clone this repository to your local machine
+1. Change the remote to a private remote in your GitHub account
+1. Push to your GitHub account
+1. Create a branch named `coding-challenge-submission` and perform your work there
+1. Create a pull request from this branch to the main branch in your repository
+1. Share your private repository to the following GitHub accounts - we'll need access to view the pull request as well as clone your source code:
+   - https://github.com/rystroa
+   - https://github.com/cb-am
+   - https://github.com/laneg-am
+
 At a minimum, please complete the following items:
 
 | Title              | Description                                                      |
