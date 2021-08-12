@@ -11,6 +11,7 @@ Thank you for taking the time to work on the American Water Coding Challenge. Th
 1. Create a pull request from this branch to the main branch in your repository
 1. Share your private repository to the following GitHub accounts - we'll need access to view the pull request as well as clone your source code:
    - https://github.com/rystroa
+   - https://github.com/dickinr
    - https://github.com/cb-am
    - https://github.com/laneg-am
 
